@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pagamento</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="pag.js" type="text/javascript" charset="utf-8" defer></script>
+</head>
+
+<body>
+    
+    <h1>Pagamento</h1>
+    
+    <div class="main">
+        <form>    
+            <label >Quanto Você deve:</label>
+            <input oninput="valor()" class="divida" type="number" min="0" max="9999" placeholder="R$">
+            <br>
+            <label>Quanto na Maquininha:</label>
+            <input oninput="valor()" class="maquininha" type="number" min="0" max="9999" placeholder="R$">
+            <br>
+            <label>Quanto em dinheiro:</label>
+            <input oninput="valor()" class="dinheiro" type="number" min="0" max="9999" placeholder="R$">
+            <br><br>
+            <label id="value">Dívida R$ </label>
+            <label id="divatual"> </label>
+            
+          
+        </form>
+    </div>
+    
+<p>
+    <a onclick="contapag()">Total</a>
+    <a onclick="" href="index.html">Voltar</a>
+</p>
+    
+</body>
+
+</html>

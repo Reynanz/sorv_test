@@ -1,0 +1,508 @@
+@charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+
+    margin: 5px;
+    padding: 5px;
+}
+
+body {
+    background: #342643;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    min-height: 0vh;
+    flex-direction: column;
+}
+
+h1 {
+    background-color: rgb(0,0,0,0.6);
+    margin: auto;
+    color: #FFFFFF;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+}
+
+
+.main {
+    font-family: sans-serif;
+    background: linear-gradient(90deg, #775bea,#ff72c0);
+    margin: auto;
+    color: #ffffff;
+    border-radius: 0px 0px 10px 10px;
+}
+
+form {
+    font-family: sans-serif;
+    background: linear-gradient(90deg, #775bea,#ff72c0);
+    margin: auto;
+    color: #ffffff;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.pagamento p {
+    min-height: 100hv;
+    text-align: center;
+}
+
+
+.pagamento a {
+    position: relative;
+    padding: 15px;
+    width: 50%;
+    margin: 10px 0px;
+}
+
+
+.chicabon {
+    
+    position: relative;
+    left: 80px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+}
+
+.brigadeiro {
+    position: relative;
+    left: 75px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.tablito {
+    position: relative;
+    left: 100px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.eskibonbarra {
+    position: relative;
+    left: 50px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.mini {
+    position: relative;
+    left: 59px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.nutablito {
+    position: relative;
+    left: 85px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.chicazero {
+    position: relative;
+    left: 48px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.mescladin {
+    position: relative;
+    left: 79px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+}
+
+.benjerry {
+    position: relative;
+    left: 61px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.frutilly {
+    position: relative;
+    left: 105px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.monica {
+    position: relative;
+    left: 100px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.morango {
+    position: relative;
+    left: 90px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.manga {
+    position: relative;
+    left: 105px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.coco {
+    position: relative;
+    left: 117px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.uva {
+    position: relative;
+    left: 127px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.caja {
+    position: relative;
+    left: 122px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.limao {
+    position: relative;
+    left: 110px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.maracuja {
+    position: relative;
+    left: 87px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.crocante {
+    position: relative;
+    left: 89px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.unicorneto {
+    position: relative;
+    left: 75px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.mm {
+    position: relative;
+    left: 107px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.spotify {
+    position: relative;
+    left: 103px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.torcida {
+    position: relative;
+    left: 100px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.magnumbite {
+    position: relative;
+    left: 58px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.magnumzero {
+    position: relative;
+    left: 54px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.classico {
+    position: relative;
+    left: 28px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.branco {
+    position: relative;
+    left: 36px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.vegano {
+    position: relative;
+    left: 32px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.cookies {
+    position: relative;
+    left: 28px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+.praline {
+    position: relative;
+    left: 36px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding:0 12px;
+    font-size: 10px;
+
+}
+
+p{
+   text-align: center;
+   min-heigth: 200hv;
+}
+
+a {
+  position: relative;
+  display: inline-block;
+  padding: 12px 36px;
+  margin: 10px 0px;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 18px;
+  overflow: hidden;
+  letter-spacing: 2px;
+  border-radius: 40px;
+  background: linear-gradient(90deg, #0162c8,#55e7fc);
+}
+
+a:nth-child(2){
+    background: linear-gradient(90deg, #775bea,#ff72c0);
+}
+
+span {
+    position: absolute;
+    background: #fff;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    border-radius: 50%;
+    animation: animate 1s linear infinite;
+}
+
+@keyframes animate {
+    0% {
+        width: 0px;
+        height: 0px;
+        opacity: 0.5;
+    }
+    100%{
+        width: 500px;
+        height: 500px;
+        opacity: 0;
+    }
+}
+
+.addcaixa a {
+    position: relative;
+    padding: 15px;
+    width: 50%;
+    top: 30px;
+    margin: 10px 0px;
+}
+
+.addcaixa p {
+    min-height: 100hv;
+    text-align: center;
+}
+
+.addunidade a {
+    position: relative;
+    padding: 15px;
+    width: 50%;
+    margin: 10px 0px;
+    
+}
+
+.divida {
+    position: relative;
+    left: -1px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding: 0 12px;
+    font-size: 10px;
+}
+
+.maquininha {
+    position: relative;
+    left: -1px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding: 0 12px;
+    font-size: 10px;
+}
+
+.dinheiro {
+    position: relative;
+    left: -1px;
+    line-height: 35px;
+    border-radius: 6px;
+    padding: 0 12px;
+    font-size: 10px;
+}
+
+
+csum {
+    background-color: rgb(0, 0, 0, 0.6);
+    margin: auto;
+    color: #FFFFFF;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+}
+
+#divatual {
+    position: relative;
+    background: linear-gradient(90deg, #bff098, #6fd6ff);
+    border-radius: 0px 20px 20px 0px;
+    width: 50%;
+    top: -7px;
+    text-align: center;
+    min-height: 90hv;
+    padding: 10px;
+    left: 80px;
+}
+
+#value {
+    position: relative;
+    background: linear-gradient(90deg, #6fd6ff, #bff098);
+    border-radius: 20px 0px 0px 20px;;
+    width: 50%;
+    top: -7px;
+    text-align: center;
+    min-height: 90hv;
+    padding: 10px;
+    left: 90px;
+}
+
+#total {
+    position: relative;
+    background: linear-gradient(90deg, #bff098, #6fd6ff);
+    border-radius: 0px 20px 20px 0px;
+    width: 50%;
+    top: -7px;
+    text-align: center;
+    min-height: 90hv;
+    padding: 10px;
+    left: 80px;
+}
+
+#totcs {
+    position: relative;
+    background: linear-gradient(90deg, #6fd6ff, #bff098);
+    border-radius: 20px 0px 0px 20px;;
+    width: 50%;
+    top: -7px;
+    text-align: center;
+    min-height: 90hv;
+    padding: 10px;
+    left: 90px;
+}
