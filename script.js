@@ -72,6 +72,8 @@ function adicionar () {
     caixas.splice(28, 1, cont);
     cont = document.querySelector('.praline').value;
     caixas.splice(29, 1, cont);
+    document.querySelector('.gelo').value;
+    caixas.splice(30, 1, cont);
     
     console.log(caixas);
 }
