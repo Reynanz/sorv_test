@@ -75,6 +75,7 @@ function adicionar () {
     cont = document.querySelector('.gelo').value;
     caixas.splice(30, 1, cont);
     
+
     console.log(caixas);
 }
 
